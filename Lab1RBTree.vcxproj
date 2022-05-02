@@ -141,6 +141,13 @@
   <ItemGroup>
     <ClCompile Include="Lab1RBTree.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IteratorForRBTree.h" />
+    <ClInclude Include="NodeList.h" />
+    <ClInclude Include="QueueForRBTree.h" />
+    <ClInclude Include="RBTreeRealisation.h" />
+    <ClInclude Include="StackForRBTree.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
